@@ -27,6 +27,10 @@
     border-radius: 799px;
 }
 
+.location__icon {
+    color: gray;
+}
+
 .header__center > input {
     border: none;
     padding: 10px;
@@ -38,6 +42,22 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 15vw;
+    min-width: 250px;
     margin-right: 20px;
+}
+
+.header__right > button {
+    background-color: white !important;
+    color: gray !important;
+    margin-right: 3px !important;
+    text-transform: inherit;
+    font-weight: 600;
+    border-radius: 799px !important;
+
+}
+
+.header__right > button:hover {
+    background-color: #6886c5 !important;
+    color: white !important;
+
 }
