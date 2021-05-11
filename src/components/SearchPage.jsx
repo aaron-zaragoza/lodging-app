@@ -1,10 +1,18 @@
 import React from 'react';
 import '../SearchPage.css';
+import { Button } from '@material-ui/core';
 
 function SearchPage() {
     return (
-        <div>
-            
+        <div className="search__page">
+            <div className='search__info'>
+                <h1>Stays Nearby</h1>
+                <Button variant="outlined">Cancellation Flexibility</Button>
+                <Button variant="outlined">Type of place</Button>
+                <Button variant="outlined">Price</Button>
+                <Button variant="outlined">Rooms and beds</Button>
+                <Button variant="outlined">More filters</Button>
+            </div>
         </div>
     )
 }

@@ -1,0 +1,23 @@
+.search__info {
+    padding: 20px;
+}
+
+.search__info > p {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.search__info > h1 {
+    margin-bottom: 30px;
+}
+
+.search__info > button {
+    border-radius: 30px;
+    text-transform: inherit;
+    margin: 5px;
+}
+
+.search__info > button:hover {
+    background-color: #6886c5 !important;
+    color: white !important;
+}

@@ -14,14 +14,15 @@ function App() {
         {/* END HEADER */}
         {/***** ROUTES *****/}
         <Switch>
+          {/* SEARCH */}
+          <Route path="/search">
+            <SearchPage />
+          </Route>
           {/* HOME */}
           <Route path="/">
             <Home />
           </Route>
-          {/* SEARCH */}
-          <Route path="search">
-            <SearchPage />
-          </Route>
+
         </Switch>
         {/***** END ROUTES *****/}
         {/* FOOTER */}
