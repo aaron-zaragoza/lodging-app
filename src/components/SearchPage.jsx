@@ -15,9 +15,9 @@ function SearchPage() {
                 <Button variant="outlined">More filters</Button>
             </div>
             <SearchResult
-                img="https://a0.muscache.com/im/pictures/miso/Hosting-30354374/original/7c4dee95-fbcc-410d-b9fb-811b6dd3ade6.jpeg"
-                location="Private room in center of Seattle"
-                title="Stay at this spacious Edwardian House"
+                img="https://www.glamping.com/static/media/uploads/property/The_Resort_at_Paws_Up/cliffside%20camp/glamping-united-states-montana-resort-at-paws-up-cliffside-camp_(2_of_6).jpg"
+                location="Spacious tent hear Tacoma, WA"
+                title="Stay at this stunning cliffside camp"
                 description="1 guest · 1 bedroom · 1 bed · 1.5 shared bathroom(s) · Wifi · Kitchen · Free parking · Washing Machine"
                 star={4.73}
                 price="$60 / night"
@@ -25,9 +25,9 @@ function SearchPage() {
             />
 
             <SearchResult
-                img="https://a0.muscache.com/im/pictures/miso/Hosting-45266481/original/6388b888-94d7-420b-8c49-44bce5f6e1d8.jpeg"
-                location="Private room in center of Seattle"
-                title="Independant luxury studio apartment"
+                img="https://www.glamping.com/static/media/uploads/property/The_Resort_at_Paws_Up/river%20camp/glamping-united-states-montana-resort-at-paws-up-river-camp_(2_of_2).jpg"
+                location="Luxury cabin near Tacoma, WA"
+                title="Enjoy sunrise overlooking the lake"
                 description="2 guest · 3 bedroom · 1 bed · 1.5 shared bathroom(s) · Wifi · Kitchen"
                 star={4.3}
                 price="$80 / night"
@@ -35,16 +35,16 @@ function SearchPage() {
             />
 
             <SearchResult
-                img="https://a0.muscache.com/im/pictures/03ae523b-d0b8-4cd7-82ec-013110c1bd61.jpg"
+                img="https://www.glamping.com/static/media/uploads/property/The_Resort_at_Paws_Up/originals%20optimized/glamping-montana-the-resort-at-paws-up-060917northbank-26.jpg"
                 location="Private room in center of Seattle"
-                title="Seattle Studio Apartments"
+                title="Relax with a front row view of the stars"
                 description="4 guest · 4 bedroom · 4 bed · 2 bathroom(s) · Free parking · Washing Machine"
                 star={3.8}
                 price="$75 / night"
                 total="£207 total"
             />
             <SearchResult
-                img="https://a0.muscache.com/im/pictures/9b6dc433-1e5d-49a8-8211-85b45f0dea62.jpg"
+                img="https://www.glamping.com/static/media/uploads/property/The_Resort_at_Paws_Up/pinnacle%20camp/glamping-united-states-montana-resort-at-paws-up-pinnacle-camp_(2_of_5).jpg"
                 location="Private room in center of Seattle"
                 title="30 mins to Oxford Street, Excel Seattle"
                 description="1 guest · 1 bedroom · 1 bed · 1.5 shared bathroom(s) · Wifi · Kitchen · Free parking · Washing Machine"
@@ -53,7 +53,7 @@ function SearchPage() {
                 total="£320 total"
             />
             <SearchResult
-                img="https://a0.muscache.com/im/pictures/75dd2e2f-3dff-4cf0-92aa-1f5fca3fd97f.jpg"
+                img="https://www.glamping.com/static/media/uploads/property/The_Resort_at_Paws_Up/cliffside%20camp/glamping-united-states-montana-resort-at-paws-up-cliffside-camp_(1_of_6).jpg"
                 location="Private room in center of Seattle"
                 title="Spacious Peaceful Modern Bedroom"
                 description="3 guest · 1 bedroom · 1 bed · 1.5 shared bathroom(s) · Wifi · Free parking · Dry Cleaning"
@@ -62,7 +62,7 @@ function SearchPage() {
                 total="£450 total"
             />
             <SearchResult
-                img="https://a0.muscache.com/im/pictures/75ab2aba-cc4f-4e79-8d35-d2d94af8c267.jpg"
+                img="https://www.glamping.com/static/media/uploads/property/The_Resort_at_Paws_Up/moonlight%20camp/glamping-united-states-montana-resort-at-paws-up-moonlight-camp_(1_of_3).jpg"
                 location="Private room in center of Seattle"
                 title="The Blue Room In Seattle"
                 description="2 guest · 1 bedroom · 1 bed · 1.5 shared bathroom(s) · Wifi · Washing Machine"
@@ -71,7 +71,7 @@ function SearchPage() {
                 total="£480 total"
             />
             <SearchResult
-                img="https://a0.muscache.com/im/pictures/368d5cd3-bc13-4c75-ae78-883065666dbe.jpg"
+                img="https://www.glamping.com/static/media/uploads/property/The_Resort_at_Paws_Up/luxury%20homes/glamping-united-states-montana-resort-at-paws-up-luxury-homes_(4_of_6).jpg"
                 location="Private room in center of Seattle"
                 title="5 Star Luxury Apartment"
                 description="3 guest · 1 bedroom · 1 bed · 1.5 shared bathroom(s) · Wifi · Kitchen · Free parking · Washing Machine"
