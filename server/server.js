@@ -1,9 +1,8 @@
-const express = require("express");
 const cors = require("cors");
 const port = 8000;
-// const dbName = "belt_exam_db";
+const dbName = "lodging_db";
 
-// require("./config/mongoose.config")(dbName);
+require("./config/mongoose.config")(dbName);
 
 const app = express();
 
