@@ -1,4 +1,5 @@
 const cors = require("cors");
+const express = require("express");
 const port = 8000;
 const dbName = "lodging_db";
 

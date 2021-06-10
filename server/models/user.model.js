@@ -24,6 +24,10 @@ const UserSchema = new mongoose.Schema({
     validate: {
         validator: val => /^([\w-\.]+@([\w-]+\.)+[\w-]+)?$/.test(val),
         message: "Please enter a valid email"
+    },
+    profilePhoto: {
+        type: String,
+        required: false
     }
 
 }, {timestamps: true});
