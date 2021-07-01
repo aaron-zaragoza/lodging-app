@@ -8,3 +8,6 @@ Live Site: https://lodging-app-5d9be.web.app/
 
 # Technologies
 Javascript, React, HTML, CSS, Material-UI
+
+# Challenges
+I noticed that Airbnb recently announced the release of an API and I was hoping to request data to dynamically update listings; however, it appears that this is not available for production and I opted to hard-code the listings.
