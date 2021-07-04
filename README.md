@@ -11,3 +11,6 @@ Javascript, React, HTML, CSS, Material-UI
 
 # Challenges
 I noticed that Airbnb recently announced the release of an API and I was hoping to request data to dynamically update listings; however, it appears that this is not available for production and I opted to hard-code the listings.
+
+# Moving Forward
+Once Airbnb's API allows developers to render data, I plan to request data for dynamic camping homestays and update the theme of this app to accurately reflect the type of locations being pulled from the API.
